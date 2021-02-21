@@ -4,14 +4,6 @@ for the sproul.club Backend Take Home Assignment
 
 By Nicholas Cho
 
-<!-- MarkdownTOC autolink="true" -->
-
-- [Overview] (#overview)
-- [Setup](#setup)
-- [Limitations](#limitations)
-
-<!-- /MarkdownTOC -->
-
 ## Overview
 
 This is an API built for a website in which student users would be able to maintain a list of textbooks from their school library. The students would be able to add textbooks from a larger list of books, while also being able to remove textbooks from their current list. Lastly, the students would be able to share their list of textbook titles with anyone through a link-embedded QR code.
